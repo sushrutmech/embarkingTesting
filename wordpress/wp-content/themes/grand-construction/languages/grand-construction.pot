@@ -1,0 +1,228 @@
+# <!=Copyright (C) 2022 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Grand Construction 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/theme/grand-construction\n"
+"POT-Creation-Date: 2022-09-27 05:51:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/child-functions.php:26
+msgid "Enable header search"
+msgstr ""
+
+#: inc/child-functions.php:47
+msgid "Phone Label"
+msgstr ""
+
+#: inc/child-functions.php:67
+msgid "Email Address"
+msgstr ""
+
+#: inc/child-functions.php:84
+msgid "Enable Social Links"
+msgstr ""
+
+#: inc/child-functions.php:85
+msgid "Enable to show social links at header."
+msgstr ""
+
+#: inc/child-functions.php:110
+msgid "Social Links"
+msgstr ""
+
+#: inc/child-functions.php:114
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/child-functions.php:115
+msgid "Example: fa-bell"
+msgstr ""
+
+#: inc/child-functions.php:119
+msgid "Link"
+msgstr ""
+
+#: inc/child-functions.php:120
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: inc/child-functions.php:125
+msgid "links"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr ""
+
+#: inc/parent-functions.php:124
+msgid "Demo and Documentation"
+msgstr ""
+
+#: inc/parent-functions.php:134
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/parent-functions.php:134 inc/parent-functions.php:135
+#: inc/parent-functions.php:136 inc/parent-functions.php:137
+#: inc/parent-functions.php:138
+msgid "here"
+msgstr ""
+
+#: inc/parent-functions.php:135
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/parent-functions.php:136
+msgid "Theme Info"
+msgstr ""
+
+#: inc/parent-functions.php:137
+msgid "Support Ticket"
+msgstr ""
+
+#: inc/parent-functions.php:138
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/parent-functions.php:192
+msgid "Mobile"
+msgstr ""
+
+#: inc/parent-functions.php:239
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/parent-functions.php:239
+msgid "Y"
+msgstr ""
+
+#: inc/parent-functions.php:245
+msgid "Grand Construction | Developed By "
+msgstr ""
+
+#: inc/parent-functions.php:247
+msgid "Rara Themes"
+msgstr ""
+
+#: inc/parent-functions.php:249
+msgid "Powered by "
+msgstr ""
+
+#: inc/parent-functions.php:250
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/parent-functions.php:250
+msgid "WordPress"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Grand Construction"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/grand-construction/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Grand Construction is a lead-optimized free construction WordPress theme "
+"for creating professional websites. Using this theme, you can create a "
+"landing page for construction & building companies, architects, plumbers, "
+"packers and movers, landscapers, or any construction-related businesses. "
+"The theme includes several sections to display your services and introduce "
+"your business to engage your visitors. It is SEO optimized and loads fast "
+"to help your site rank better on search engines. This theme is also "
+"cross-browser compatible, mobile responsive, translation ready and supports "
+"RTL scripts. Check the demo at "
+"https://rarathemes.com/previews/?theme=grand-construction, documentation at "
+"https://docs.rarathemes.com/docs/grand-construction/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: inc/parent-functions.php:13
+#. translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Rubik: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/parent-functions.php:14
+msgctxt "Hind Siliguri: on or off"
+msgid "on"
+msgstr ""
